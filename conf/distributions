@@ -5,4 +5,4 @@ Codename: bookworm
 Architectures: amd64 arm64
 Components: main
 Description: Debian x64 github repository
-SignWith: E10617191AEF13E2CBAE08E697701710CDAB59A1
+SignWith: CE71889EB1E1DA2B71026BA61AAEF22D9056966D

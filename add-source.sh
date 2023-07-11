@@ -1,6 +1,6 @@
 tee /etc/apt/sources.list.d/mattapt.sources  <<"EOF"
 Types: deb
-URIs: https://raw.githubusercontent.com/MattMckenzy/MattApt/master/
+URIs: https://raw.githubusercontent.com/MattMckenzy/MattApt/main/
 Suites: stable
 Components: main
 Signed-By:

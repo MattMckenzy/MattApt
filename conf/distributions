@@ -1,0 +1,8 @@
+Origin: MattMckenzy
+Label: MattMckenzy Github
+Suite: stable
+Codename: bookworm
+Architectures: amd64 arm64
+Components: main
+Description: Debian x64 github repository
+SignWith: E10617191AEF13E2CBAE08E697701710CDAB59A1

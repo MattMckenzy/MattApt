@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: MattMckenzy
+Label: MattMckenzy Github
+Architecture: arm64
+Description: Debian x64 github repository

@@ -1,0 +1,29 @@
+Origin: MattMckenzy
+Label: MattMckenzy Github
+Suite: stable
+Codename: bookworm
+Date: Wed, 12 Jul 2023 00:33:48 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Debian x64 github repository
+MD5Sum:
+ 2cf37faf219e5d64cecb82753d98746c 734 main/binary-amd64/Packages
+ 46e5bfd4c14d29818b38700f97e0834b 515 main/binary-amd64/Packages.gz
+ 90a831bde874b1c01a96b58f597e013e 140 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 950d2ae1705340145d027ca9ef7664a2 140 main/binary-arm64/Release
+SHA1:
+ 86167c1d638787a1bd7754718dc72e47f161471d 734 main/binary-amd64/Packages
+ 887c0c67f62a743f252e239a9ad581692fc1e966 515 main/binary-amd64/Packages.gz
+ 6555b49add8026ffa50d09cf1ca9d1a890e8b46a 140 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 3e650ec125ea2235e82a3533a8636c1d7813605f 140 main/binary-arm64/Release
+SHA256:
+ f8d84215a20cbc8995e8868195f34e9bdbf8521ce9c5ef94fdbe2c8a961264ea 734 main/binary-amd64/Packages
+ 648ac99be0bac744050e5cc08209cc32c6c405d339549cda9c44a46b8024c06e 515 main/binary-amd64/Packages.gz
+ fccb8369cc9feb614a1a513a981c4c1218c383a8cbe692fe9c71102cf5c01d81 140 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 11ad5d2bd4306422fd58ae4b4e812f3d62002e52a97c14685adca99aca3578aa 140 main/binary-arm64/Release

@@ -1,7 +1,7 @@
 tee /etc/apt/sources.list.d/mattapt.sources  <<"EOF"
 Types: deb
 URIs: https://raw.githubusercontent.com/MattMckenzy/MattApt/main/
-Suites: stable
+Suites: bookworm
 Components: main
 Signed-By:
  -----BEGIN PGP PUBLIC KEY BLOCK-----

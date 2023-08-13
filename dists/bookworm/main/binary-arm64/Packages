@@ -1,5 +1,5 @@
 Package: homecast
-Version: 1.0.9
+Version: 1.0.10
 Architecture: arm64
 Maintainer: MattMckenzy <mattmckenzy@outlook.com>
 Installed-Size: 108575
@@ -7,11 +7,11 @@ Depends: mpv (>= 0.35.1), socat, python3, yt-dlp, ffmpeg, adduser
 Homepage: https://github.com/MattMckenzy/Homehook
 Priority: optional
 Section: net
-Filename: pool/main/h/homecast/homecast_1.0.9_arm64.deb
-Size: 28464644
-SHA256: 9e11df4e4cb3e613621602aa87ed5f8d9881603f4dab3ac402e4531f33d48ace
-SHA1: f1fc5e45025e23eedd0f2cc7bfe5bb71c6dc548c
-MD5sum: fae40c9770e25954d9c1085c250e4208
+Filename: pool/main/h/homecast/homecast_1.0.10_arm64.deb
+Size: 28468872
+SHA256: f813630d73d70c0e8987be852b664a74c41ac15d7165ac6ab5056590252f7dde
+SHA1: d6a5a6567a7af4d910722a2d2fc4ab20bb53b056
+MD5sum: 85fda7cd27571cd1869842e091ae39ea
 Description: MPV wrapper for media devices.
  HomeCast provides an easy to use and consume interface, through a SignalR Hub,
  to start and control MPV sessions on the media device.

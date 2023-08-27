@@ -2,27 +2,27 @@ Origin: MattMckenzy
 Label: MattMckenzy Github
 Suite: stable
 Codename: bookworm
-Date: Wed, 23 Aug 2023 16:01:39 UTC
+Date: Sun, 27 Aug 2023 21:52:32 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Debian x64 github repository
 MD5Sum:
- 088634d2e7244d9515b0d7f7df790ee6 753 main/binary-amd64/Packages
- 2dad956c0426eb8cd93587695c000fd1 527 main/binary-amd64/Packages.gz
+ b5b9832a6768a2c29241c33257e24a47 774 main/binary-amd64/Packages
+ a3a2dc7d8ae8f21dcc434070d5a1b8ef 540 main/binary-amd64/Packages.gz
  90a831bde874b1c01a96b58f597e013e 140 main/binary-amd64/Release
  c4f74db6a1f069f34ecff808ef82637b 754 main/binary-arm64/Packages
  b8e4f153cec0aca79d3886411fbd0e6c 527 main/binary-arm64/Packages.gz
  950d2ae1705340145d027ca9ef7664a2 140 main/binary-arm64/Release
 SHA1:
- 5a0aeb3dd0f82ef8aed499da7f0437864b3b4bf9 753 main/binary-amd64/Packages
- c06154cf41358297ee56763b93af3e8bb049b5dd 527 main/binary-amd64/Packages.gz
+ a22888d59bc593e0fc167b869e44569666bdcd88 774 main/binary-amd64/Packages
+ 240c959a4bcc2a5aa5ea514711d6b689d9981973 540 main/binary-amd64/Packages.gz
  6555b49add8026ffa50d09cf1ca9d1a890e8b46a 140 main/binary-amd64/Release
  f37204e7e6cb1b1a185b26373ba59fa4a8db5231 754 main/binary-arm64/Packages
  9fd8959a86f229d40a940535ba18ce18c2ba2a45 527 main/binary-arm64/Packages.gz
  3e650ec125ea2235e82a3533a8636c1d7813605f 140 main/binary-arm64/Release
 SHA256:
- 2c04fdce2a9fc6dee9e414039c1302f1844e17aeda7b14c3aa9d82a188fdadee 753 main/binary-amd64/Packages
- 5286ee69baca41e97f039968e9ded4a899de8af25cad482429be621c869f7af5 527 main/binary-amd64/Packages.gz
+ 779e719280cd0945249d7bd14e15d4c9cd11e40bf8bed407e329fe0df3de039e 774 main/binary-amd64/Packages
+ 518a78f029b7f31d69ba4cd0110e2b1f8e2f47b2dbf8658cd35e53a1bc056b8d 540 main/binary-amd64/Packages.gz
  fccb8369cc9feb614a1a513a981c4c1218c383a8cbe692fe9c71102cf5c01d81 140 main/binary-amd64/Release
  1f9f653ed151197f21274e2ed7c7f3c4d1821aea0685dea1a5c93036affcdf3a 754 main/binary-arm64/Packages
  f3d9247c2710a3633494a80a1990cab2e4f98b8c955a2d2ac16adbef09a4c53d 527 main/binary-arm64/Packages.gz

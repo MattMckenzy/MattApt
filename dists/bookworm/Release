@@ -2,7 +2,7 @@ Origin: MattMckenzy
 Label: MattMckenzy Github
 Suite: stable
 Codename: bookworm
-Date: Sun, 27 Aug 2023 21:52:32 UTC
+Date: Sun, 27 Aug 2023 22:00:45 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Debian x64 github repository
@@ -10,20 +10,20 @@ MD5Sum:
  b5b9832a6768a2c29241c33257e24a47 774 main/binary-amd64/Packages
  a3a2dc7d8ae8f21dcc434070d5a1b8ef 540 main/binary-amd64/Packages.gz
  90a831bde874b1c01a96b58f597e013e 140 main/binary-amd64/Release
- c4f74db6a1f069f34ecff808ef82637b 754 main/binary-arm64/Packages
- b8e4f153cec0aca79d3886411fbd0e6c 527 main/binary-arm64/Packages.gz
+ b32fefe147792a67a9c9c9084e7973d9 775 main/binary-arm64/Packages
+ 5d7659c8df393d9b06e6767663b383aa 541 main/binary-arm64/Packages.gz
  950d2ae1705340145d027ca9ef7664a2 140 main/binary-arm64/Release
 SHA1:
  a22888d59bc593e0fc167b869e44569666bdcd88 774 main/binary-amd64/Packages
  240c959a4bcc2a5aa5ea514711d6b689d9981973 540 main/binary-amd64/Packages.gz
  6555b49add8026ffa50d09cf1ca9d1a890e8b46a 140 main/binary-amd64/Release
- f37204e7e6cb1b1a185b26373ba59fa4a8db5231 754 main/binary-arm64/Packages
- 9fd8959a86f229d40a940535ba18ce18c2ba2a45 527 main/binary-arm64/Packages.gz
+ 5fe70e8871c99874db4641c61a974917e6865209 775 main/binary-arm64/Packages
+ 311b2ae12ac78b7d306be51cffb82eda8e72cf36 541 main/binary-arm64/Packages.gz
  3e650ec125ea2235e82a3533a8636c1d7813605f 140 main/binary-arm64/Release
 SHA256:
  779e719280cd0945249d7bd14e15d4c9cd11e40bf8bed407e329fe0df3de039e 774 main/binary-amd64/Packages
  518a78f029b7f31d69ba4cd0110e2b1f8e2f47b2dbf8658cd35e53a1bc056b8d 540 main/binary-amd64/Packages.gz
  fccb8369cc9feb614a1a513a981c4c1218c383a8cbe692fe9c71102cf5c01d81 140 main/binary-amd64/Release
- 1f9f653ed151197f21274e2ed7c7f3c4d1821aea0685dea1a5c93036affcdf3a 754 main/binary-arm64/Packages
- f3d9247c2710a3633494a80a1990cab2e4f98b8c955a2d2ac16adbef09a4c53d 527 main/binary-arm64/Packages.gz
+ a994b3f578b123c8db54d79acc101bec922ee4ce98599e1fb1a1c73cbf827372 775 main/binary-arm64/Packages
+ 784a6e89a975833473682124d419f0dde5128fa6eff3db2433d508b2a3ed9d33 541 main/binary-arm64/Packages.gz
  11ad5d2bd4306422fd58ae4b4e812f3d62002e52a97c14685adca99aca3578aa 140 main/binary-arm64/Release
